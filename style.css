@@ -1,5 +1,6 @@
 body{
-    background-color: wheat;
+    background-image: url('bg.jpg');
+    background-size: cover;
 }
 .container h1{
     color: orangered;
